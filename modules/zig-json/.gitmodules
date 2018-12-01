@@ -1,0 +1,9 @@
+[submodule "modules/zig-parse-number"]
+	path = modules/zig-parse-number
+	url = git@github.com:winksaville/zig-parse-number.git
+[submodule "modules/zig-geometry"]
+	path = modules/zig-geometry
+	url = git@github.com:winksaville/zig-geometry
+[submodule "modules/3d-test-resources"]
+	path = modules/3d-test-resources
+	url = git@github.com:winksaville/3d-test-resources
